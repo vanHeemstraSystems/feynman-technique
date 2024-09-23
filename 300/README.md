@@ -21,7 +21,7 @@ If you’d rather avoid actually teaching someone, you can just teach it to an i
 
 Ideally, the person you’re teaching will ask questions and probe you, trying to find holes in your knowledge base. This might feel a little uncomfortable, but it’s exactly what you need in order to proceed to step 3.
 
-##3 Example:
+### Example:
 Continuing with the chess example, step two would require you to teach someone else to play chess. You’d need to be able to explain the games’ objectives, rules, how the pieces move and some basic strategies to win.
 
 As your student asks questions, you’ll inevitably discover holes in your knowledge – questions that you can’t answer. But this is exactly what you want.
