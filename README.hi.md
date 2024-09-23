@@ -1,8 +1,8 @@
-भंडार-नाम
+फेनमैन-तकनीक
 
-# भंडार का नाम
+# फेनमैन तकनीक
 
-"एबीसी" पर आधारित<https://www.abc.com/>
+"द फेनमैन तकनीक" पर आधारित<https://www.colorado.edu/artssciences-advising/resource-library/life-skills/the-feynman-technique-in-academic-coaching>
 
 ## 100 - परिचय
 
