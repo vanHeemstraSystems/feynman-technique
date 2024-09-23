@@ -1,12 +1,12 @@
-儲存庫名稱
+feynman-technique
 
-# 儲存庫名稱
+# 費曼技術
 
-基於“ABC”<https://www.abc.com/>
+基於“費曼技術”<https://www.colorado.edu/artssciences-advising/resource-library/life-skills/the-feynman-technique-in-academic-coaching>
 
-## 100 - 簡介
+## 100 - Introduction
 
-看[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - 要求
 
