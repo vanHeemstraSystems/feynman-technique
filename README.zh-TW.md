@@ -1,4 +1,4 @@
-feynman-technique
+費曼技術
 
 # 費曼技術
 
@@ -6,7 +6,7 @@ feynman-technique
 
 ## 100 - Introduction
 
-See [README.md](./100/README.md)
+看[README.md](./100/README.md)
 
 ## 200 - 要求
 
