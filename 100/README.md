@@ -10,4 +10,4 @@ And Feynman developed his own personal method for deeply learning and internaliz
 
 3) Fill the Gaps
 
-4) Repeat
+4) Simplify
