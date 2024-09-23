@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+feynman-technique
+# Feynman Technique
 
-Based on "ABC" at https://www.abc.com/
+Based on "The Feynman Technique" at https://www.colorado.edu/artssciences-advising/resource-library/life-skills/the-feynman-technique-in-academic-coaching
 
 ## 100 - Introduction
 
