@@ -1,8 +1,8 @@
-存储库名称
+费曼技术
 
-# 存储库名称
+# 费曼技术
 
-基于“ABC”<https://www.abc.com/>
+基于“费曼技术”<https://www.colorado.edu/artssciences-advising/resource-library/life-skills/the-feynman-technique-in-academic-coaching>
 
 ## 100 - 简介
 
