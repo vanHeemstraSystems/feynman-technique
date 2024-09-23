@@ -1,12 +1,12 @@
-اسم المستودع
+تقنية فاينمان
 
-# اسم المستودع
+# تقنية فاينمان
 
-استنادا إلى "ABC" في<https://www.abc.com/>
+استنادا إلى "تقنية فاينمان" في<https://www.colorado.edu/artssciences-advising/resource-library/life-skills/the-feynman-technique-in-academic-coaching>
 
 ## 100- مقدمة
 
-See [README.md](./100/README.md)
+يرى[README.md](./100/README.md)
 
 ## 200 - المتطلبات
 
@@ -16,6 +16,6 @@ See [README.md](./100/README.md)
 
 يرى[README.md](./300/README.md)
 
-## 400 - الخاتمة
+## 400 - Conclusion
 
 يرى[README.md](./400/README.md)
