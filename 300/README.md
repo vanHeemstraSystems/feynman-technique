@@ -7,7 +7,7 @@ The first step is easy. In fact, anyone who’s reading an article about learnin
 
 All you have to do is choose a topic and start studying.
 
-Naturally, this makes perfect sense for educational based study, but it can also work equally well for other skills such as sports. Simply write down all of the things you know about the skill on the piece of paper. Try and break it down into its core components and seek to understand it as a whole.
+Naturally, this makes perfect sense for educational based study, but it can also work equally well for other skills such as sports. Simply write down all of the things you know about the skill on the piece of paper. Try and break it down into its core components (see [First Principle Thinking](https://github.com/vanHeemstraSystems/first-principle-thinking)) and seek to understand it as a whole.
 
 ### Example:
 As an example, we’re going to be using the game of chess.
