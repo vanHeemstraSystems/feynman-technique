@@ -39,4 +39,4 @@ Now, you can go back and study exactly what you need to know. Recover the rules 
 ## 400 - Step 4 – Simplify
 Ideally, you’ve already greatly improved your understanding of the target skill. However, you’re not done. Now you need to simplify the content.
 
-This step is extremely effective at building your cohesive understanding of a subject. To be able to cut away clutter and explain something so clearly that even young children with limited vocabulary can understand, is extremely difficult. Attempting to do this, forces you to not only deeply master the information/skill but to also grasp how all of the different elements join together.
+This step is extremely effective at building your cohesive understanding of a subject. To be able to cut away clutter and explain something so clearly that even young children with limited vocabulary can understand, is extremely difficult. Attempting to do this, forces you to not only deeply master the information/skill but to also grasp how all of the different elements join together (see [First Principle Thinking](https://github.com/vanHeemstraSystems/first-principle-thinking)).
