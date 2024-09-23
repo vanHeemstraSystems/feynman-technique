@@ -1,20 +1,20 @@
-nom du référentiel
+feynman-technique
 
-# Nom du référentiel
+# Feynman Technique
 
-Basé sur "ABC" à<https://www.abc.com/>
+Basé sur "La Technique Feynman" à<https://www.colorado.edu/artssciences-advising/resource-library/life-skills/the-feynman-technique-in-academic-coaching>
 
 ## 100 - Introduction
 
 Voir[README.md](./100/README.md)
 
-## 200 - Exigences
+## 200 - Requirements
 
 Voir[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - Créer notre application
 
-Voir[README.md](./300/README.md)
+See [README.md](./300/README.md)
 
 ## 400 - Conclusion
 
