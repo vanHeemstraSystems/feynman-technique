@@ -1,5 +1,7 @@
 # 300 - Building Our Application
 
+Now known as **the Feynman technique**, it’s a simple process for *deeply learning* and *internalizing topics*, containing 4 repeatable steps:
+
 ## 100 - Step 1 – Study
 The first step is easy. In fact, anyone who’s reading an article about learning processes is probably already doing it.
 
